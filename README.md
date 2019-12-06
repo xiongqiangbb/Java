@@ -1,4 +1,4 @@
-# The Algorithms - Java
+# The Algorithms - Java 该项目用Java实现的所有算法
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100)
 
 
